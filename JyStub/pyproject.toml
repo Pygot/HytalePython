@@ -1,0 +1,8 @@
+[project]
+name = "jystub"
+version = "0.1.0"
+description = "Type Hint Generator"
+requires-python = ">=3.13"
+dependencies = [
+    "javatools>=1.6.0",
+]
